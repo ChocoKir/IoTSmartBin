@@ -18,6 +18,16 @@ This repository contains the software component of a larger IoT Smart Bin concep
     - **Live Counters:** A dashboard at the bottom keeps a running tally of classified objects.
 - **Robust Logic:** Includes a confidence threshold to prevent uncertain guesses and a timeout mechanism to avoid double-counting.
 
+## Screenshots / Demo
+
+Here are some visuals showcasing the application in action:
+
+![Application running with Biodegradable item](images/s1.png)
+_Demonstrates classification of a biodegradable item with high confidence._
+
+![Application running with Non-Biodegradable item and counter](images/s2.png)
+_Shows classification of a non-biodegradable item and the live counter update._
+
 ## Tech Stack
 
 - **Language:** Python
